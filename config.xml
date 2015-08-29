@@ -7,16 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>Seymour</name>
 
-    <description>
-        An example for phonegap build docs. 
-    </description>
+    <description>You tell it to feed you</description>
 
-    <author href="https://appsonmob.com" email="rahat@appsonmob.com">
+    <author href="https://bluefission.com" email="dscott@bluefission.com">
         AppMechanic
     </author>
 
-    <preference name="phonegap-version" value="2.7.0" />
+    <preference name="phonegap-version" value="3.7.0" />
 
 </widget>
